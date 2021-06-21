@@ -1,3 +1,3 @@
 # PredictionUsingSuperviedML
 
-open supervisedML.pynb in jupyter Notebook
+open supervisedML.ipynb in jupyter Notebook
